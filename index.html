@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css">
+        <link href="styles/style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <h1>The Olympics: A Breakdown</h1>
+        <h2>(1864 - 2014)</h2>
+        <div id="main">
+            <div id="legend1">
+            <h3>Percentage of medalists vs GDP per Capita</h3>
+            </div>
+            <p>The three graphs below compare the percentage of Bronze, Silver, and Gold medalists of Olympics contestants for each country to that country's GDP per Capita, as of 2014. Each circle represents a country, its color corresponding to its population.</p>
+
+            <div id="graph1" style="text-align: center">
+            <svg id = "graphLegend" height = "120" width = "1200"></svg>
+            <svg id = "graph1a" height = "400" width = "680"></svg>
+            <svg id = "graph1b" height = "400" width = "680"></svg>
+            <svg id = "graph1c" height = "400" width = "680"></svg>
+            </div>
+
+            <div id="legend1">
+                    <h3>Percentages of Male and Female Gold Medalists by Country</h3>
+            </div>
+            <p>The two graphs below compare the percentage of male contestants who won Gold Medals to the percentage of female contestants who won Gold Medals in each country, including both summer and winter events. Countries in grey are unrepresented.</p>
+            <div id="graph2" style="text-align: center;">
+            <svg id="choropleth1" width="700" height="500"></svg>
+            <svg id="choropleth2" width="700" height="500"></svg>
+            </div>
+
+            <script src="graph1.js"></script>
+            <script src="https://unpkg.com/d3@4"></script>
+            <script src="https://unpkg.com/topojson-client@3"></script>
+            <script src="graph2.js"></script>
+            <script src="https://d3js.org/d3.v5.min.js"></script>
+        </div>
+    </body>
+</html>

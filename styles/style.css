@@ -1,0 +1,85 @@
+
+html {
+    background-color: lavender;
+}
+
+#scatterplot text {
+    text-anchor: middle;
+    alignment-baseline: middle;
+    font-family: "Open Sans Condensed";
+}
+
+#choropleth1, #choropleth2 {
+    margin-top: 30px;
+    /* border: 2px solid; */
+}
+
+h1 {
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-family: "Open Sans Condensed";
+    font-size: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Open Sans Condensed";
+    color: midnightblue;
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+h3 {
+    font-family: "Open Sans Condensed";
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+p {
+    font-family: "Open Sans Condensed";
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+#main {
+    background-color: white;
+}
+#legend1 {
+    font-family: "Open Sans Condensed";
+    background-color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.gridlines line {
+    stroke: #bbb;
+}
+
+.gridlines .domain {
+    stroke: none;
+}
+
+#linechart .line {
+    stroke: steelblue;
+    fill: none;
+}
+
+div #graph1  {
+    background-color: white;
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div #graph2  {
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+}

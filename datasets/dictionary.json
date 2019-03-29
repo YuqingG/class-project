@@ -1,0 +1,1208 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Code": "AFG",
+    "Population": 32526562,
+    "GDP": 594.3230812
+  },
+  {
+    "Country": "Albania",
+    "Code": "ALB",
+    "Population": 2889167,
+    "GDP": 3945.217582
+  },
+  {
+    "Country": "Algeria",
+    "Code": "ALG",
+    "Population": 39666519,
+    "GDP": 4206.031232
+  },
+  {
+    "Country": "American Samoa*",
+    "Code": "ASA",
+    "Population": 55538,
+    "GDP": ""
+  },
+  {
+    "Country": "Andorra",
+    "Code": "AND",
+    "Population": 70473,
+    "GDP": ""
+  },
+  {
+    "Country": "Angola",
+    "Code": "ANG",
+    "Population": 25021974,
+    "GDP": 4101.472152
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Code": "ANT",
+    "Population": 91818,
+    "GDP": 13714.73196
+  },
+  {
+    "Country": "Argentina",
+    "Code": "ARG",
+    "Population": 43416755,
+    "GDP": 13431.87834
+  },
+  {
+    "Country": "Armenia",
+    "Code": "ARM",
+    "Population": 3017712,
+    "GDP": 3489.12769
+  },
+  {
+    "Country": "Aruba*",
+    "Code": "ARU",
+    "Population": 103889,
+    "GDP": ""
+  },
+  {
+    "Country": "Australia",
+    "Code": "AUS",
+    "Population": 23781169,
+    "GDP": 56310.96299
+  },
+  {
+    "Country": "Austria",
+    "Code": "AUT",
+    "Population": 8611088,
+    "GDP": 43774.98517
+  },
+  {
+    "Country": "Azerbaijan",
+    "Code": "AZE",
+    "Population": 9651349,
+    "GDP": 5496.34464
+  },
+  {
+    "Country": "Bahamas",
+    "Code": "BAH",
+    "Population": 388019,
+    "GDP": 22817.23086
+  },
+  {
+    "Country": "Bahrain",
+    "Code": "BRN",
+    "Population": 1377237,
+    "GDP": 22600.2141
+  },
+  {
+    "Country": "Bangladesh",
+    "Code": "BAN",
+    "Population": 160995642,
+    "GDP": 1211.701531
+  },
+  {
+    "Country": "Barbados",
+    "Code": "BAR",
+    "Population": 284215,
+    "GDP": 15429.34046
+  },
+  {
+    "Country": "Belarus",
+    "Code": "BLR",
+    "Population": 9513000,
+    "GDP": 5740.456495
+  },
+  {
+    "Country": "Belgium",
+    "Code": "BEL",
+    "Population": 11285721,
+    "GDP": 40324.02777
+  },
+  {
+    "Country": "Belize",
+    "Code": "BIZ",
+    "Population": 359287,
+    "GDP": 4878.721267
+  },
+  {
+    "Country": "Bermuda*",
+    "Code": "BER",
+    "Population": 65235,
+    "GDP": ""
+  },
+  {
+    "Country": "Benin",
+    "Code": "BEN",
+    "Population": 10879829,
+    "GDP": 762.0512054
+  },
+  {
+    "Country": "Bhutan",
+    "Code": "BHU",
+    "Population": 774830,
+    "GDP": 2655.998892
+  },
+  {
+    "Country": "Bolivia",
+    "Code": "BOL",
+    "Population": 10724705,
+    "GDP": 3076.791811
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Population": 3810416,
+    "GDP": 4249.330313
+  },
+  {
+    "Country": "Botswana",
+    "Code": "BOT",
+    "Population": 2262485,
+    "GDP": 6360.13822
+  },
+  {
+    "Country": "Brazil",
+    "Code": "BRA",
+    "Population": 207847528,
+    "GDP": 8538.589975
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Code": "IVB",
+    "Population": 30117,
+    "GDP": ""
+  },
+  {
+    "Country": "Brunei",
+    "Code": "BRU",
+    "Population": 423188,
+    "GDP": 30554.72967
+  },
+  {
+    "Country": "Bulgaria",
+    "Code": "BUL",
+    "Population": 7177991,
+    "GDP": 6993.47736
+  },
+  {
+    "Country": "Burkina Faso",
+    "Code": "BUR",
+    "Population": 18105570,
+    "GDP": 589.7744141
+  },
+  {
+    "Country": "Burundi",
+    "Code": "BDI",
+    "Population": 11178921,
+    "GDP": 277.0683092
+  },
+  {
+    "Country": "Cambodia",
+    "Code": "CAM",
+    "Population": 15577899,
+    "GDP": 1158.689904
+  },
+  {
+    "Country": "Cameroon",
+    "Code": "CMR",
+    "Population": 23344179,
+    "GDP": 1217.26067
+  },
+  {
+    "Country": "Canada",
+    "Code": "CAN",
+    "Population": 35851774,
+    "GDP": 43248.52991
+  },
+  {
+    "Country": "Cape Verde",
+    "Code": "CPV",
+    "Population": 520502,
+    "GDP": 3080.178814
+  },
+  {
+    "Country": "Cayman Islands*",
+    "Code": "CAY",
+    "Population": 59967,
+    "GDP": ""
+  },
+  {
+    "Country": "Central African Republic",
+    "Code": "CAF",
+    "Population": 4900274,
+    "GDP": 323.201674
+  },
+  {
+    "Country": "Chad",
+    "Code": "CHA",
+    "Population": 14037472,
+    "GDP": 775.6950905
+  },
+  {
+    "Country": "Chile",
+    "Code": "CHI",
+    "Population": 17948141,
+    "GDP": 13416.23004
+  },
+  {
+    "Country": "China",
+    "Code": "CHN",
+    "Population": 1371220000,
+    "GDP": 8027.68381
+  },
+  {
+    "Country": "Colombia",
+    "Code": "COL",
+    "Population": 48228704,
+    "GDP": 6056.147717
+  },
+  {
+    "Country": "Comoros",
+    "Code": "COM",
+    "Population": 788474,
+    "GDP": 717.44885
+  },
+  {
+    "Country": "Congo",
+    "Code": "CGO",
+    "Population": 4620330,
+    "GDP": 1851.199916
+  },
+  {
+    "Country": "Congo, Dem Rep",
+    "Code": "COD",
+    "Population": 77266814,
+    "GDP": 456.0527405
+  },
+  {
+    "Country": "Cook Islands",
+    "Code": "COK",
+    "Population": "",
+    "GDP": ""
+  },
+  {
+    "Country": "Costa Rica",
+    "Code": "CRC",
+    "Population": 4807850,
+    "GDP": 11260.09216
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Population": 22701556,
+    "GDP": 1398.989958
+  },
+  {
+    "Country": "Croatia",
+    "Code": "CRO",
+    "Population": 4224404,
+    "GDP": 11535.82936
+  },
+  {
+    "Country": "Cuba",
+    "Code": "CUB",
+    "Population": 11389562,
+    "GDP": ""
+  },
+  {
+    "Country": "Cyprus",
+    "Code": "CYP",
+    "Population": 1165300,
+    "GDP": 23242.84007
+  },
+  {
+    "Country": "Czech Republic",
+    "Code": "CZE",
+    "Population": 10551219,
+    "GDP": 17548.33821
+  },
+  {
+    "Country": "Denmark",
+    "Code": "DEN",
+    "Population": 5676002,
+    "GDP": 51989.29347
+  },
+  {
+    "Country": "Djibouti",
+    "Code": "DJI",
+    "Population": 887861,
+    "GDP": 1945.124293
+  },
+  {
+    "Country": "Dominica",
+    "Code": "DMA",
+    "Population": 72680,
+    "GDP": 7116.386392
+  },
+  {
+    "Country": "Dominican Republic",
+    "Code": "DOM",
+    "Population": 10528391,
+    "GDP": 6468.473492
+  },
+  {
+    "Country": "East Timor (Timor-Leste)",
+    "Code": "TLS",
+    "Population": 1245015,
+    "GDP": 1157.992956
+  },
+  {
+    "Country": "Ecuador",
+    "Code": "ECU",
+    "Population": 16144363,
+    "GDP": 6205.064145
+  },
+  {
+    "Country": "Egypt",
+    "Code": "EGY",
+    "Population": 91508084,
+    "GDP": 3614.746766
+  },
+  {
+    "Country": "El Salvador",
+    "Code": "ESA",
+    "Population": 6126583,
+    "GDP": 4219.35033
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Code": "GEQ",
+    "Population": 845060,
+    "GDP": 14439.59445
+  },
+  {
+    "Country": "Eritrea",
+    "Code": "ERI",
+    "Population": "",
+    "GDP": ""
+  },
+  {
+    "Country": "Estonia",
+    "Code": "EST",
+    "Population": 1311998,
+    "GDP": 17118.5042
+  },
+  {
+    "Country": "Ethiopia",
+    "Code": "ETH",
+    "Population": 99390750,
+    "GDP": 619.1694065
+  },
+  {
+    "Country": "Fiji",
+    "Code": "FIJ",
+    "Population": 892145,
+    "GDP": 4960.519954
+  },
+  {
+    "Country": "Finland",
+    "Code": "FIN",
+    "Population": 5482013,
+    "GDP": 42311.03623
+  },
+  {
+    "Country": "France",
+    "Code": "FRA",
+    "Population": 66808385,
+    "GDP": 36205.5681
+  },
+  {
+    "Country": "Gabon",
+    "Code": "GAB",
+    "Population": 1725292,
+    "GDP": 8266.445605
+  },
+  {
+    "Country": "Gambia",
+    "Code": "GAM",
+    "Population": 1990924,
+    "GDP": 471.5371955
+  },
+  {
+    "Country": "Georgia",
+    "Code": "GEO",
+    "Population": 3679000,
+    "GDP": 3795.973308
+  },
+  {
+    "Country": "Germany",
+    "Code": "GER",
+    "Population": 81413145,
+    "GDP": 41313.31399
+  },
+  {
+    "Country": "Ghana",
+    "Code": "GHA",
+    "Population": 27409893,
+    "GDP": 1369.701122
+  },
+  {
+    "Country": "Greece",
+    "Code": "GRE",
+    "Population": 10823732,
+    "GDP": 18002.23058
+  },
+  {
+    "Country": "Grenada",
+    "Code": "GRN",
+    "Population": 106825,
+    "GDP": 9212.020352
+  },
+  {
+    "Country": "Guam",
+    "Code": "GUM",
+    "Population": 169885,
+    "GDP": ""
+  },
+  {
+    "Country": "Guatemala",
+    "Code": "GUA",
+    "Population": 16342897,
+    "GDP": 3903.478856
+  },
+  {
+    "Country": "Guinea",
+    "Code": "GUI",
+    "Population": 12608590,
+    "GDP": 531.3205952
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Code": "GBS",
+    "Population": 1844325,
+    "GDP": 572.9884285
+  },
+  {
+    "Country": "Guyana",
+    "Code": "GUY",
+    "Population": 767085,
+    "GDP": 4127.351018
+  },
+  {
+    "Country": "Haiti",
+    "Code": "HAI",
+    "Population": 10711067,
+    "GDP": 818.3432976
+  },
+  {
+    "Country": "Honduras",
+    "Code": "HON",
+    "Population": 8075060,
+    "GDP": 2528.89355
+  },
+  {
+    "Country": "Hong Kong*",
+    "Code": "HKG",
+    "Population": 7305700,
+    "GDP": 42327.83996
+  },
+  {
+    "Country": "Hungary",
+    "Code": "HUN",
+    "Population": 9844686,
+    "GDP": 12363.54346
+  },
+  {
+    "Country": "Iceland",
+    "Code": "ISL",
+    "Population": 330823,
+    "GDP": 50173.33992
+  },
+  {
+    "Country": "India",
+    "Code": "IND",
+    "Population": 1311050527,
+    "GDP": 1598.259034
+  },
+  {
+    "Country": "Indonesia",
+    "Code": "INA",
+    "Population": 257563815,
+    "GDP": 3346.487039
+  },
+  {
+    "Country": "Iran",
+    "Code": "IRI",
+    "Population": 79109272,
+    "GDP": ""
+  },
+  {
+    "Country": "Iraq",
+    "Code": "IRQ",
+    "Population": 36423395,
+    "GDP": 4943.760388
+  },
+  {
+    "Country": "Ireland",
+    "Code": "IRL",
+    "Population": 4640703,
+    "GDP": 61133.67243
+  },
+  {
+    "Country": "Israel",
+    "Code": "ISR",
+    "Population": 8380400,
+    "GDP": 35728.0935
+  },
+  {
+    "Country": "Italy",
+    "Code": "ITA",
+    "Population": 60802085,
+    "GDP": 29957.80432
+  },
+  {
+    "Country": "Jamaica",
+    "Code": "JAM",
+    "Population": 2725941,
+    "GDP": 5232.024583
+  },
+  {
+    "Country": "Japan",
+    "Code": "JPN",
+    "Population": 126958472,
+    "GDP": 32477.21514
+  },
+  {
+    "Country": "Jordan",
+    "Code": "JOR",
+    "Population": 7594547,
+    "GDP": 4940.045836
+  },
+  {
+    "Country": "Kazakhstan",
+    "Code": "KAZ",
+    "Population": 17544126,
+    "GDP": 10509.98107
+  },
+  {
+    "Country": "Kenya",
+    "Code": "KEN",
+    "Population": 46050302,
+    "GDP": 1376.712829
+  },
+  {
+    "Country": "Korea, North",
+    "Code": "PRK",
+    "Population": 25155317,
+    "GDP": ""
+  },
+  {
+    "Country": "Korea, South",
+    "Code": "KOR",
+    "Population": 50617045,
+    "GDP": 27221.52405
+  },
+  {
+    "Country": "Kuwait",
+    "Code": "KUW",
+    "Population": 3892115,
+    "GDP": 29300.57558
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Population": 5957000,
+    "GDP": 1103.215352
+  },
+  {
+    "Country": "Laos",
+    "Code": "LAO",
+    "Population": 6802023,
+    "GDP": 1818.441373
+  },
+  {
+    "Country": "Latvia",
+    "Code": "LAT",
+    "Population": 1978440,
+    "GDP": 13648.54756
+  },
+  {
+    "Country": "Lebanon",
+    "Code": "LIB",
+    "Population": 5850743,
+    "GDP": 8047.645086
+  },
+  {
+    "Country": "Lesotho",
+    "Code": "LES",
+    "Population": 2135022,
+    "GDP": 1066.985626
+  },
+  {
+    "Country": "Liberia",
+    "Code": "LBR",
+    "Population": 4503438,
+    "GDP": 455.8739345
+  },
+  {
+    "Country": "Libya",
+    "Code": "LBA",
+    "Population": 6278438,
+    "GDP": ""
+  },
+  {
+    "Country": "Liechtenstein",
+    "Code": "LIE",
+    "Population": 37531,
+    "GDP": ""
+  },
+  {
+    "Country": "Lithuania",
+    "Code": "LTU",
+    "Population": 2910199,
+    "GDP": 14147.04938
+  },
+  {
+    "Country": "Luxembourg",
+    "Code": "LUX",
+    "Population": 569676,
+    "GDP": 101449.9682
+  },
+  {
+    "Country": "Macedonia",
+    "Code": "MKD",
+    "Population": 2078453,
+    "GDP": 4852.657848
+  },
+  {
+    "Country": "Madagascar",
+    "Code": "MAD",
+    "Population": 24235390,
+    "GDP": 401.836006
+  },
+  {
+    "Country": "Malawi",
+    "Code": "MAW",
+    "Population": 17215232,
+    "GDP": 371.9857478
+  },
+  {
+    "Country": "Malaysia",
+    "Code": "MAS",
+    "Population": 30331007,
+    "GDP": 9768.32686
+  },
+  {
+    "Country": "Maldives",
+    "Code": "MDV",
+    "Population": 409163,
+    "GDP": 8395.785198
+  },
+  {
+    "Country": "Mali",
+    "Code": "MLI",
+    "Population": 17599694,
+    "GDP": 724.2562832
+  },
+  {
+    "Country": "Malta",
+    "Code": "MLT",
+    "Population": 431333,
+    "GDP": 22596.18177
+  },
+  {
+    "Country": "Mauritania",
+    "Code": "MTN",
+    "Population": 4067564,
+    "GDP": ""
+  },
+  {
+    "Country": "Mauritius",
+    "Code": "MRI",
+    "Population": 1262605,
+    "GDP": 9252.110724
+  },
+  {
+    "Country": "Mexico",
+    "Code": "MEX",
+    "Population": 127017224,
+    "GDP": 9005.024265
+  },
+  {
+    "Country": "Micronesia",
+    "Code": "FSM",
+    "Population": 104460,
+    "GDP": 3015.231668
+  },
+  {
+    "Country": "Moldova",
+    "Code": "MDA",
+    "Population": 3554150,
+    "GDP": 1848.061804
+  },
+  {
+    "Country": "Monaco",
+    "Code": "MON",
+    "Population": 37731,
+    "GDP": ""
+  },
+  {
+    "Country": "Mongolia",
+    "Code": "MGL",
+    "Population": 2959134,
+    "GDP": 3967.829386
+  },
+  {
+    "Country": "Morocco",
+    "Code": "MAR",
+    "Population": 34377511,
+    "GDP": 2878.201342
+  },
+  {
+    "Country": "Mozambique",
+    "Code": "MOZ",
+    "Population": 27977863,
+    "GDP": 529.2425561
+  },
+  {
+    "Country": "Burma",
+    "Code": "MYA",
+    "Population": 53897154,
+    "GDP": 1161.488158
+  },
+  {
+    "Country": "Namibia",
+    "Code": "NAM",
+    "Population": 2458830,
+    "GDP": 4673.567248
+  },
+  {
+    "Country": "Nauru",
+    "Code": "NRU",
+    "Population": 10222,
+    "GDP": 9827.544281
+  },
+  {
+    "Country": "Nepal",
+    "Code": "NEP",
+    "Population": 28513700,
+    "GDP": 743.3229657
+  },
+  {
+    "Country": "Netherlands",
+    "Code": "NED",
+    "Population": 16936520,
+    "GDP": 44299.76809
+  },
+  {
+    "Country": "Netherlands Antilles*",
+    "Code": "AHO",
+    "Population": "",
+    "GDP": ""
+  },
+  {
+    "Country": "New Zealand",
+    "Code": "NZL",
+    "Population": 4595700,
+    "GDP": 37807.96728
+  },
+  {
+    "Country": "Nicaragua",
+    "Code": "NCA",
+    "Population": 6082032,
+    "GDP": 2086.895003
+  },
+  {
+    "Country": "Niger",
+    "Code": "NIG",
+    "Population": 19899120,
+    "GDP": 358.958152
+  },
+  {
+    "Country": "Nigeria",
+    "Code": "NGR",
+    "Population": 182201962,
+    "GDP": 2640.290739
+  },
+  {
+    "Country": "Norway",
+    "Code": "NOR",
+    "Population": 5195921,
+    "GDP": 74400.36978
+  },
+  {
+    "Country": "Oman",
+    "Code": "OMA",
+    "Population": 4490541,
+    "GDP": 15550.67625
+  },
+  {
+    "Country": "Pakistan",
+    "Code": "PAK",
+    "Population": 188924874,
+    "GDP": 1434.696665
+  },
+  {
+    "Country": "Palau",
+    "Code": "PLW",
+    "Population": 21291,
+    "GDP": 13498.66141
+  },
+  {
+    "Country": "Palestine, Occupied Territories",
+    "Code": "PLE",
+    "Population": "",
+    "GDP": ""
+  },
+  {
+    "Country": "Panama",
+    "Code": "PAN",
+    "Population": 3929141,
+    "GDP": 13268.11375
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Code": "PNG",
+    "Population": 7619321,
+    "GDP": ""
+  },
+  {
+    "Country": "Paraguay",
+    "Code": "PAR",
+    "Population": 6639123,
+    "GDP": 4080.951448
+  },
+  {
+    "Country": "Peru",
+    "Code": "PER",
+    "Population": 31376670,
+    "GDP": 6027.125855
+  },
+  {
+    "Country": "Philippines",
+    "Code": "PHI",
+    "Population": 100699395,
+    "GDP": 2904.202082
+  },
+  {
+    "Country": "Poland",
+    "Code": "POL",
+    "Population": 37999494,
+    "GDP": 12554.54755
+  },
+  {
+    "Country": "Portugal",
+    "Code": "POR",
+    "Population": 10348648,
+    "GDP": 19222.15008
+  },
+  {
+    "Country": "Puerto Rico*",
+    "Code": "PUR",
+    "Population": 3474182,
+    "GDP": ""
+  },
+  {
+    "Country": "Qatar",
+    "Code": "QAT",
+    "Population": 2235355,
+    "GDP": 73653.39443
+  },
+  {
+    "Country": "Romania",
+    "Code": "ROM",
+    "Population": 19832389,
+    "GDP": 8972.922518
+  },
+  {
+    "Country": "Russia",
+    "Code": "RUS",
+    "Population": 144096812,
+    "GDP": 9092.580536
+  },
+  {
+    "Country": "Rwanda",
+    "Code": "RWA",
+    "Population": 11609666,
+    "GDP": 697.3482281
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Code": "SKN",
+    "Population": 55572,
+    "GDP": 15771.9455
+  },
+  {
+    "Country": "Saint Lucia",
+    "Code": "LCA",
+    "Population": 184999,
+    "GDP": 7735.910484
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Code": "VIN",
+    "Population": 109462,
+    "GDP": 6739.174833
+  },
+  {
+    "Country": "Samoa",
+    "Code": "SAM",
+    "Population": 193228,
+    "GDP": 3938.548846
+  },
+  {
+    "Country": "San Marino",
+    "Code": "SMR",
+    "Population": 31781,
+    "GDP": ""
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Code": "STP",
+    "Population": 190344,
+    "GDP": 1669.063268
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Code": "KSA",
+    "Population": 31540372,
+    "GDP": 20481.74532
+  },
+  {
+    "Country": "Senegal",
+    "Code": "SEN",
+    "Population": 15129273,
+    "GDP": 899.5798795
+  },
+  {
+    "Country": "Serbia",
+    "Code": "SCG",
+    "Population": 7098247,
+    "GDP": 5235.142207
+  },
+  {
+    "Country": "Seychelles",
+    "Code": "SEY",
+    "Population": 92900,
+    "GDP": 15476.01944
+  },
+  {
+    "Country": "Sierra Leone",
+    "Code": "SLE",
+    "Population": 6453184,
+    "GDP": 653.1318159
+  },
+  {
+    "Country": "Singapore",
+    "Code": "SIN",
+    "Population": 5535002,
+    "GDP": 52888.74467
+  },
+  {
+    "Country": "Slovakia",
+    "Code": "SVK",
+    "Population": 5424050,
+    "GDP": 16088.27759
+  },
+  {
+    "Country": "Slovenia",
+    "Code": "SLO",
+    "Population": 2063768,
+    "GDP": 20726.53989
+  },
+  {
+    "Country": "Solomon Islands",
+    "Code": "SOL",
+    "Population": 583591,
+    "GDP": 1934.856293
+  },
+  {
+    "Country": "Somalia",
+    "Code": "SOM",
+    "Population": 10787104,
+    "GDP": 549.2669766
+  },
+  {
+    "Country": "South Africa",
+    "Code": "RSA",
+    "Population": 54956920,
+    "GDP": 5723.973357
+  },
+  {
+    "Country": "Spain",
+    "Code": "ESP",
+    "Population": 46418269,
+    "GDP": 25831.58231
+  },
+  {
+    "Country": "Sri Lanka",
+    "Code": "SRI",
+    "Population": 20966000,
+    "GDP": 3926.174396
+  },
+  {
+    "Country": "Sudan",
+    "Code": "SUD",
+    "Population": 40234882,
+    "GDP": 2414.723601
+  },
+  {
+    "Country": "Suriname",
+    "Code": "SUR",
+    "Population": 542975,
+    "GDP": 9485.319244
+  },
+  {
+    "Country": "Swaziland",
+    "Code": "SWZ",
+    "Population": 1286970,
+    "GDP": 3200.143018
+  },
+  {
+    "Country": "Sweden",
+    "Code": "SWE",
+    "Population": 9798871,
+    "GDP": 50579.67365
+  },
+  {
+    "Country": "Switzerland",
+    "Code": "SUI",
+    "Population": 8286976,
+    "GDP": 80945.07922
+  },
+  {
+    "Country": "Syria",
+    "Code": "SYR",
+    "Population": 18502413,
+    "GDP": ""
+  },
+  {
+    "Country": "Taiwan",
+    "Code": "TPE",
+    "Population": "",
+    "GDP": ""
+  },
+  {
+    "Country": "Tajikistan",
+    "Code": "TJK",
+    "Population": 8481855,
+    "GDP": 925.9118877
+  },
+  {
+    "Country": "Tanzania",
+    "Code": "TAN",
+    "Population": 53470420,
+    "GDP": 878.9751055
+  },
+  {
+    "Country": "Thailand",
+    "Code": "THA",
+    "Population": 67959359,
+    "GDP": 5814.769764
+  },
+  {
+    "Country": "Togo",
+    "Code": "TOG",
+    "Population": 7304578,
+    "GDP": 559.6358767
+  },
+  {
+    "Country": "Tonga",
+    "Code": "TGA",
+    "Population": 106170,
+    "GDP": 4098.543929
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Code": "TRI",
+    "Population": 1360088,
+    "GDP": 17321.88468
+  },
+  {
+    "Country": "Tunisia",
+    "Code": "TUN",
+    "Population": 11107800,
+    "GDP": 3872.512084
+  },
+  {
+    "Country": "Turkey",
+    "Code": "TUR",
+    "Population": 78665830,
+    "GDP": 9125.68759
+  },
+  {
+    "Country": "Turkmenistan",
+    "Code": "TKM",
+    "Population": 5373502,
+    "GDP": 6672.477544
+  },
+  {
+    "Country": "Uganda",
+    "Code": "UGA",
+    "Population": 39032383,
+    "GDP": 705.2925695
+  },
+  {
+    "Country": "Ukraine",
+    "Code": "UKR",
+    "Population": 45198200,
+    "GDP": 2114.954716
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Code": "UAE",
+    "Population": 9156963,
+    "GDP": 40438.76293
+  },
+  {
+    "Country": "United Kingdom",
+    "Code": "GBR",
+    "Population": 65138232,
+    "GDP": 43875.96961
+  },
+  {
+    "Country": "United States",
+    "Code": "USA",
+    "Population": 321418820,
+    "GDP": 56115.71843
+  },
+  {
+    "Country": "Uruguay",
+    "Code": "URU",
+    "Population": 3431555,
+    "GDP": 15573.90092
+  },
+  {
+    "Country": "Uzbekistan",
+    "Code": "UZB",
+    "Population": 31299500,
+    "GDP": 2132.070368
+  },
+  {
+    "Country": "Vanuatu",
+    "Code": "VAN",
+    "Population": 264652,
+    "GDP": 2805.314644
+  },
+  {
+    "Country": "Venezuela",
+    "Code": "VEN",
+    "Population": 31108083,
+    "GDP": ""
+  },
+  {
+    "Country": "Vietnam",
+    "Code": "VIE",
+    "Population": 91703800,
+    "GDP": 2111.138024
+  },
+  {
+    "Country": "Virgin Islands*",
+    "Code": "ISV",
+    "Population": 103574,
+    "GDP": ""
+  },
+  {
+    "Country": "Yemen",
+    "Code": "YEM",
+    "Population": 26832215,
+    "GDP": 1406.291651
+  },
+  {
+    "Country": "Zambia",
+    "Code": "ZAM",
+    "Population": 16211767,
+    "GDP": 1304.879014
+  },
+  {
+    "Country": "Zimbabwe",
+    "Code": "ZIM",
+    "Population": 15602751,
+    "GDP": 924.1438193
+  }
+]
